@@ -21,3 +21,22 @@
 .bottom {
     height: 6rem;
 }
+hr {
+    height: 3rem;
+    background-color: white;
+    border-color: white;
+    border: solid;
+    border-style:none;
+    
+}
+ul {
+    list-style-type: none
+}
+
+.little {
+    margin-right: .625rem;
+}
+.flexbox {
+    display: flex;
+    justify-content: center;
+}
