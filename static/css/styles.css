@@ -1,6 +1,8 @@
-.container{
-    
+.first {
+    height: 20.71375rem;
 }
+
+
 .images {
     width:51.875rem;
     height: 32.5rem;
@@ -12,4 +14,9 @@
 }
 .content {
     width: 51.875rem;
+    
+}
+
+.bottom {
+    height: 6rem;
 }
