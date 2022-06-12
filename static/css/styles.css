@@ -35,6 +35,7 @@ ul {
 }
 
 .little {
+    height:5rem;
     margin-right: .625rem;
 }
 .flexbox {
