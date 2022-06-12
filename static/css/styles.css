@@ -22,11 +22,12 @@
     height: 6rem;
 }
 hr {
-    height: 3rem;
+    height: .2rem;
     background-color: white;
     border-color: white;
     border: solid;
     border-style:none;
+    margin-bottom: 0;
     
 }
 ul {
