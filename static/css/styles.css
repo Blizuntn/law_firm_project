@@ -38,13 +38,26 @@ ul {
     height:5rem;
     margin-right: .625rem;
 }
-.flexbox {
-    display: flex;
-    justify-content: center;
-}
+
 .vr {
     display:block;
     padding-left: 6rem;
     border-right:silver solid .1rem;
     border-width: .1875rem;
+}
+.border-primary {
+    padding-top: 1.95rem;
+    padding-bottom: 2.2rem;
+  padding-left: .9rem !important;
+  padding-right:  .9rem !important;
+}
+
+.sidebox {
+  background-color: rgb(122, 16, 16)
+}
+
+.hr2 {
+  width: 90%;
+  background-color: white !important
+
 }
