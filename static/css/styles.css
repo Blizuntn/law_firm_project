@@ -42,3 +42,9 @@ ul {
     display: flex;
     justify-content: center;
 }
+.vr {
+    display:block;
+    padding-left: 6rem;
+    border-right:silver solid .1rem;
+    border-width: .1875rem;
+}
